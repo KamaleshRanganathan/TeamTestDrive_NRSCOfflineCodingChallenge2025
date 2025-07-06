@@ -1,6 +1,8 @@
 # TeamTestDrive_NRSCOfflineCodingChallenge2025
 NRSCOfflineCodingChallenge2025
 
+Special Thanks to Team NRSC for the oppurtunity
+
 # 🌥️ Cloud and Shadow Segmentation from Satellite Imagery
 
 This repository contains the implementation for segmenting cloud and shadow regions in satellite images using deep learning techniques. The work is part of a research and competition initiative and demonstrates an end-to-end pipeline from preprocessing to mask generation and visualization.
